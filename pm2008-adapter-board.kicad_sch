@@ -477,7 +477,7 @@
     (uuid 7269c319-0767-4b85-898a-3b8bb1c1b467)
     (property "Reference" "J1" (id 0) (at 111.125 85.09 0))
     (property "Value" "Conn_02x05_Top_Bottom" (id 1) (at 111.125 87.63 0))
-    (property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical" (id 2) (at 109.855 96.52 0)
+    (property "Footprint" "" (id 2) (at 109.855 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 109.855 96.52 0)
@@ -624,7 +624,7 @@
       (reference "#PWR05") (unit 1) (value "Earth") (footprint "")
     )
     (path "/7269c319-0767-4b85-898a-3b8bb1c1b467"
-      (reference "J1") (unit 1) (value "Conn_02x05_Top_Bottom") (footprint "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_02x05_Top_Bottom") (footprint "Connector_PinSocket_1.27mm:PinSocket_2x05_P1.27mm_Vertical")
     )
     (path "/d9f7c98a-e535-4a62-9291-f3e87bb98657"
       (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical")
